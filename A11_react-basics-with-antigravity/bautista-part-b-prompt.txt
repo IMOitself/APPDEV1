@@ -1,0 +1,13 @@
+remake the style of this react project to be like papel picado. with solid background. allow a song to redirect to the youtube video (link is based on the image src). use hover when hovering on a song. do not add or remove a file. only modify the files on src. do not change strings but editing text elements is okay.
+make all occupy width. center it horizontally. maintain the orientation of songlist horizontal. each song should have respective bg color. song one is purple, 2 is red, 3 is blue. apply a background color to root. use font-family: JetBrains Mono. instead of importing the font.
+the header takes up a lot of space, minimize it maybe put it in a box. separate youtube logo from it. 
+
+apply bigger font size. and colorful papel picado decals in the background using z-index.
+
+the papel picado decals is stuck on the top left. fix it. minimal edit.
+
+add layers and layers of papel picado squares with different vibrant colorful colors to replace the current decals. kae sure it is slightly less visible than the song components and the header.
+
+consistent rotation and bigger squares for the papel picado background
+
+remove transparency, use solid colors that doesn't go over than the main papels. fewer picado but larger sizes.
