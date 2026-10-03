@@ -86,3 +86,32 @@ Do not edit until I approve the fix.
 
 ## Reflection
 I made the AI take a look at it and it actually realized there is no problem about that
+
+### 07_dom.html
+## Prompt
+Open 07_dom.html.
+
+Do not modify it yet.
+
+1. explain every functionality and the flow of the code
+2. what lines will be changed if its possible to change all john wick related to Russell Bautista 18 years old BSIS
+3. Create a browser verification checklist for 07_dom.html.
+Include:
+- how to open the file
+- what to click
+- what input to type
+- what should change immediately
+- what should change after 2 seconds
+4. Rewrite the button and setTimeout behavior as one React functional component.
+
+Keep the same behavior:
+- button click asks for a color
+- background changes
+- paragraph updates after 2 seconds
+
+add a way to pick a color not by typing but for selecting in a color picker.
+
+Explain what changed from direct DOM mutation to state-driven UI. minimal edit. simple logic
+
+## Reflection
+Just like other reflections I understand that making the AI not modify it yet is a good idea. It might take a long time but its worth it for code quality
