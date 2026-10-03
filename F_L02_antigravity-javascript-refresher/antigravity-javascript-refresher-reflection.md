@@ -42,3 +42,15 @@ If it fails, explain the error before fixing
 
 ## Reflection
 I learned how not to type fast but to make the AI explain everything with detail to create code
+
+### 04_objects.js
+## Prompt
+Open 04_objects.js.
+
+Create aboutMe with name, age, course, and introduce().
+Ensure to replace john wick related to Russell Bautista 18 years old BSIS
+
+Before writing the final code, explain why introduce() should be a regular function instead of an arrow function when it uses this.name.
+
+## Reflection
+I learned that its a good idea to explain the code first before writing code and be vey specific about it to avoid confusion and errors.

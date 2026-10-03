@@ -1,7 +1,7 @@
 const aboutMe = {
-  name: "John Wick",
-  age: 40,
-  course: "BSCrim",
+  name: "Russell Bautista",
+  age: 18,
+  course: "BSIS",
   introduce: function () {
     console.log(`Hi, I'm ${this.name}, age ${this.age} and my course was ${this.course}.`);
   }
