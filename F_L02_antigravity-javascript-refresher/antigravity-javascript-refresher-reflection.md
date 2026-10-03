@@ -115,3 +115,19 @@ Explain what changed from direct DOM mutation to state-driven UI. minimal edit. 
 
 ## Reflection
 Just like other reflections I understand that making the AI not modify it yet is a good idea. It might take a long time but its worth it for code quality
+
+#### 08_essential_features.js
+## Prompt
+Open 08_essential_features.js.
+
+Explain:
+1. what concepts are introduce. 
+2. How destructuring and spread works.
+3. How often we use map() on react
+4. what lines will be changed if its possible to change all john wick related to Russell Bautista 18 years old BSIS
+
+read as few files as possible. minimal edit. simple logic.
+
+
+## Reflection
+I learned how useful it is to not to rely on AI to make prompts for it because it gives you time to think and process information better. and how useful using this prompt that i've been using for a long time. `read as few files as possible. minimal edit. simple logic.`
