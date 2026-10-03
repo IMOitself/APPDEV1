@@ -70,3 +70,19 @@ Do not modify yet
 
 ## Reflection
 Same as previous reflections I learned how to make the AI compare code for me to actually visualize what was gonna happen
+
+
+### 06_control_structures.js
+## Prompt
+Open 06_control_structure.js.
+
+Check if the grade checker is wrong.
+
+First, reproduce the output.
+Second, explain the root cause.
+Third, propose the smallest safe fix.
+
+Do not edit until I approve the fix.
+
+## Reflection
+I made the AI take a look at it and it actually realized there is no problem about that
