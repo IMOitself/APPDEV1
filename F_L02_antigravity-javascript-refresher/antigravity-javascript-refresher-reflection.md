@@ -1,0 +1,2 @@
+### 01_base_syntax.js
+I've learned that having a structured prompt instead of just one paragraph is more helpful for the AI to understand and generate better code. Because thats what I've been doing before.

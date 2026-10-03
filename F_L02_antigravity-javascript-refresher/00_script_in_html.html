@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>script in html</title>
+</head>
+
+<body>
+
+  <h1>loading...</h1>
+  
+  <script>
+    console.log("boop beep");
+  </script>
+
+  <script src="app.js"></script>
+
+  <script type="module" src="app.js"></script>
+
+  <script type="module">
+    import { userInfo } from "./15_modules_export.js";
+    console.log(userInfo.name);
+  </script>
+</body>
+
+</html>

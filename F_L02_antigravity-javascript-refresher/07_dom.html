@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button id="changeColorBtn">change background</button>
+    <p id="message">this text will be updated after 2 seconds idk.</p>
+
+    <script>
+        const button = document.getElementById("changeColorBtn");
+        button.addEventListener("click", () => {
+            const color = prompt("give me a color pls:D.");
+            document.body.style.backgroundColor = color;
+        });
+
+        const message = document.getElementById("message");
+        setTimeout(() => {
+            message.textContent = "this text got updated after 2 seconds idk.";
+        }, 2000);
+    </script>
+
+</body>
+
+</html>
