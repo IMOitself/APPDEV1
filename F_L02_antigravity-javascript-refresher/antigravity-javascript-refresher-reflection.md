@@ -54,3 +54,19 @@ Before writing the final code, explain why introduce() should be a regular funct
 
 ## Reflection
 I learned that its a good idea to explain the code first before writing code and be vey specific about it to avoid confusion and errors.
+
+
+### 05_arrays.js
+## Prompt
+Open 05_arrays.js.
+
+After running it, explain:
+1. Which operation mutates the array.
+2. Which operation returns a new array.
+3. Why .map() is important before React list rendering
+4. what lines will be changed if its possible to change all john wick related to Russell Bautista 18 years old BSIS
+
+Do not modify yet
+
+## Reflection
+Same as previous reflections I learned how to make the AI compare code for me to actually visualize what was gonna happen
