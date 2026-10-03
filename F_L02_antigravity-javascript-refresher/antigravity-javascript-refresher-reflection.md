@@ -131,3 +131,18 @@ read as few files as possible. minimal edit. simple logic.
 
 ## Reflection
 I learned how useful it is to not to rely on AI to make prompts for it because it gives you time to think and process information better. and how useful using this prompt that i've been using for a long time. `read as few files as possible. minimal edit. simple logic.`
+
+### 09_tricky_parts.js
+## Prompt
+Open 09_tricky_parts.js.
+
+Explain:
+1. what concepts are introduce. 
+2. it has some very tricky parts to understand show me what are those
+4. what lines will be changed if its possible to change all john wick related to Russell Bautista 18 years old BSIS
+
+add another concept that will be useful and is related to the concepts on it.
+respond as minimally as possible. read as few files as possible. minimal edit. simple logic.
+
+## Reflection
+AI is very good at prediciting what will happen before it will run that is why it is sometimes useful to just make it predict it instead of wiating for code to run.
