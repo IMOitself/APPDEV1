@@ -10,6 +10,6 @@ function calculator(a, b) {
   return { sum: a + b, product: a * b };
 }
 
-console.log(greet("John Wick"));
+console.log(greet("Russell Bautista"));
 console.log(square(4));
 console.log(calculator(3, 5));

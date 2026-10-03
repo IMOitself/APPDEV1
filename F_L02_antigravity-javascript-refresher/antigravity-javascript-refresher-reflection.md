@@ -27,3 +27,18 @@ I've learned that having a structured prompt instead of just one paragraph is mo
 ## Reflection
 
 Making the AI explain the code is always a good thing because we need to always be reminded of what we are doing instead of just vibe coding everything
+
+
+### 03_functions.js
+## Prompt
+ Do the instructions using only @F_L02_antigravity-javascript-refresher\03_functions.js with:
+1. greet(name) as a function declaration
+2. square(num) as an arrow function
+3. calculator(a, b) returning an object
+4. Change the name to Russell Bautista
+
+After editing, run node 03_functions.js.
+If it fails, explain the error before fixing
+
+## Reflection
+I learned how not to type fast but to make the AI explain everything with detail to create code
