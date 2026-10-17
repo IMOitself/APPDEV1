@@ -3,7 +3,7 @@
     width: 86vw;
     height: 82vh;
     min-height: 600px;
-    background: #a9c0f0;
+    background: var(--color-secondary);
     overflow: hidden;
 }
 
@@ -21,12 +21,12 @@
     font-size: 32px;
     font-weight: 300;
     line-height: 1.25;
-    color: #fff;
+    color: var(--color-text);
 }
 
 .tagline strong {
     font-weight: 700;
-    color: #5b86e5;
+    color: var(--color-primary);
 }
 
 .logo {
@@ -40,7 +40,7 @@
 .link {
     font-size: 16px;
     letter-spacing: 1px;
-    color: #fff;
+    color: var(--color-text);
 }
 
 /* ---------- Right panel ---------- */
@@ -71,7 +71,7 @@
     padding: 18px 0 14px;
     margin-bottom: 28px;
     border: none;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid var(--color-input-placeholder);
     outline: none;
     font-family: inherit;
     font-size: 16px;
@@ -79,11 +79,11 @@
 }
 
 .form input::placeholder {
-    color: #9a9a9a;
+    color: var(--color-input-placeholder);
 }
 
 .form input:focus {
-    border-bottom-color: #5b86e5;
+    border-bottom-color: var(--color-primary);
 }
 
 .form button {
@@ -92,8 +92,8 @@
     margin-top: 16px;
     border: none;
     border-radius: 8px;
-    background: #5b86e5;
-    color: #fff;
+    background: var(--color-primary);;
+    color: var(--color-text);
     font-family: inherit;
     font-size: 16px;
     font-weight: 700;
@@ -109,7 +109,7 @@
 }
 
 .signup a {
-    color: #5b86e5;
+    color: var(--color-primary);;
     font-weight: 700;
     text-decoration: none;
 }
