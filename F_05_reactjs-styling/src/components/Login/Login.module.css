@@ -1,0 +1,103 @@
+.login {
+    display: flex;
+    width: 850px;
+    height: 550px;
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.left {
+    width: 45%;
+    background: url("../../assets/dahon-idk.jpg") center / cover no-repeat;
+    border-radius: 16px;
+}
+
+.right {
+    width: 55%;
+    padding: 50px 60px;
+    display: flex;
+    flex-direction: column;
+    color: #5F7C8D;
+}
+
+.right h2 {
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 35px;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.activeTab {
+    color: #5F7C8D;
+    border-bottom: 2px solid #5F7C8D;
+    padding: 0 10px 4px;
+    cursor: pointer;
+}
+
+.inactiveTab {
+    color: #C1CCD3;
+    cursor: pointer;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.input {
+    border: none;
+    border-bottom: 1.5px solid #5F7C8D;
+    padding: 8px 0;
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: #5F7C8D;
+    outline: none;
+    font-family: inherit;
+}
+
+.input::placeholder {
+    color: #C1CCD3;
+}
+
+.button {
+    background: #4B687A;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 5px;
+    font-family: inherit;
+}
+
+.or {
+    text-align: center;
+    color: #C1CCD3;
+    font-size: 14px;
+    margin: 25px 0 20px;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.socials img {
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+}
